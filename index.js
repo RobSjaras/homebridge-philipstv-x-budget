@@ -41,8 +41,8 @@ function HttpStatusAccessory(log, config) {
 	}
 
 	// CONNECTION SETTINGS
-	this.protocol = (this.api_version > 5) ? "https" : "http";
-	this.portno = (this.api_version > 5) ? "1926" : "1925";
+	this.protocol = (this.api_version > 5) ? "http" : "https";
+	this.portno = (this.api_version > 5) ? "1925" : "1926";
 
 	that.log("Model year: " + this.model_year_nr);
 	that.log("API version: " + this.api_version);

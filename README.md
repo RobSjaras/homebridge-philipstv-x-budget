@@ -1,5 +1,8 @@
-# homebridge-philipstv-X
-Homebridge module for Philips TV (with JointSpace enabled)
+# homebridge-philipstv-X-budget
+Homebridge module for Philips TV (with JointSpace enabled) BUDGET EDITION
+
+New to this BUDGET fork:
+This is for TV's that use the newer API, but for some reason doesn't use HTTPS
 
 **Hint:** If you are looking for a homebridge-plugin which supports 2018 philips models checkout [this plugin's fork](https://github.com/jebabin/homebridge-philipstv-enhanced) by [jebabin](https://github.com/jebabin).
 

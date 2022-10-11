@@ -1,14 +1,14 @@
 {
-  "name": "homebridge-philipstv-x",
-  "version": "0.5.0",
-  "description": "Homebridge module for the Philips TV (with JointSpace enabled) and ready for 2016 models",
+  "name": "homebridge-philipstv-x-budget",
+  "version": "0.6.1",
+  "description": "Homebridge module for the Philips TV (with JointSpace enabled) and ready for 2016 models - Budget edition",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skrollme/homebridge-philipstv-x.git"
+    "url": "git+https://github.com/RobSjaras/homebridge-philipstv-x-budget.git"
   },
   "dependencies": {
     "polling-to-event": "^2.0.2",
@@ -25,10 +25,10 @@
     "node": ">=0.12.0",
     "homebridge": ">=0.2.0"
   },
-  "author": "skrollme <github@skroll.me>",
+  "author": "RobSjaras <1918121+RobSjaras@users.noreply.github.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/skrollme/homebridge-philipstv-x/issues"
+    "url": "https://github.com/RobSjaras/homebridge-philipstv-x-budget/issues"
   },
-  "homepage": "https://github.com/skrollme/homebridge-philipstv-x#readme"
+  "homepage": "https://github.com/RobSjaras/homebridge-philipstv-x-budget#readme"
 }
